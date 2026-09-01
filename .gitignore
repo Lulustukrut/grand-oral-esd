@@ -1,0 +1,12 @@
+﻿# Dependencies
+node_modules/
+
+# Logs & temp files
+*.log
+step_*.txt
+b64_*.txt
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
