@@ -7,6 +7,10 @@ step_*.txt
 b64_*.txt
 *.tmp
 
+# Raw heavy uncompressed media
+projet 3/sous titre ok son ok bon pour AG .mp4
+projet 2/phaser-demo.webm
+
 # OS files
 .DS_Store
 Thumbs.db
